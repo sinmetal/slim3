@@ -7,14 +7,14 @@
       <artifactId>slim3-archetype-quickstart</artifactId>
       <version>1.0.17-SNAPSHOT</version>
       <repository>http://slim3.github.com/slim3/</repository>
-      <description>Archetype - slim3-archetype-quickstart(slim3-1.0.17-SNAPSHOT,appengine-1.8.2)</description>
+      <description>Archetype - slim3-archetype-quickstart(slim3-1.0.17-SNAPSHOT,appengine-1.9.11)</description>
     </archetype>
     <archetype>
       <groupId>org.slim3</groupId>
       <artifactId>slim3-archetype-kotori-quickstart</artifactId>
       <version>1.0.17-SNAPSHOT</version>
       <repository>http://slim3.github.com/slim3/</repository>
-      <description>Archetype - slim3-archetype-kotori-quickstart(slim3-1.0.17-SNAPSHOT,appengine-1.8.2)</description>
+      <description>Archetype - slim3-archetype-kotori-quickstart(slim3-1.0.17-SNAPSHOT,appengine-1.9.11)</description>
     </archetype>
   </archetypes>
 </archetype-catalog>
